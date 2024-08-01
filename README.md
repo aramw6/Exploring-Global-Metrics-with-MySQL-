@@ -93,6 +93,9 @@ Investigated climate distribution across continents.
 **Skills Demonstrated:**
 
 Data Analysis: Interpreting complex datasets using SQL.
+
 SQL Proficiency: Writing and executing complex queries for data extraction and manipulation.
+
 Data Cleaning and Preparation: Ensuring data integrity for analysis.
+
 Insight Generation: Extracting meaningful insights and patterns from data.
