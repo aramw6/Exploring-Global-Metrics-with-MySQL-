@@ -1,3 +1,7 @@
+--This SQL script contains a comprehensive exploratory data analysis (EDA) of the "Countries of the World" dataset.
+--The dataset includes various socio-economic indicators for countries worldwide. 
+--The analysis includes data cleaning, feature engineering, and insights generation to uncover patterns and trends.
+
 
 -- Preview Data:
 
